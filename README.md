@@ -12,6 +12,6 @@ Projeto construído em aula com o professor João Tinti
 - Javascript
 - Git e Github
 
-# ❤ Contato
+# 💛 Contato
 
 jonhy.willy.jw71@gmail.com
